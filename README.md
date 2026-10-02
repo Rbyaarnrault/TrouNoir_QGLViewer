@@ -24,8 +24,8 @@ Ce projet a été développé avec une approche technique forte, axée sur la r�
 
 ### 1. Champs de Forces Combinés
 Le système calcule la force nette appliquée à chaque particule en combinant deux vecteurs distincts :
-- **Un Puits Gravitationnel (Sink) :** Force d'attraction linéaire pointant vers le centre de la singularité.
-- **Un Vortex :** Force centrifuge calculée à partir du produit vectoriel (`^`) entre l'axe d'ordonnée (Y) et le vecteur de direction, générant le mouvement de giration.
+- **Un Puit Gravitationnel (Sink) :** Force d'attraction linéaire pointant vers le centre de la singularité.
+- **Un Vortex :** Force centrifuge calculée à partir du produit vectoriel (`^`) entre l'axe d'ordonnée (Y) et le vecteur de direction, générant le mouvement de rotation autour du vortex.
 
 ```cpp
 // Normalisation et calcul vectoriel du vortex
@@ -82,6 +82,6 @@ L'éxecution se fait via ce nom (ou autre si vous l'avez changé dans le .pro)
 ```
 
 ### 👨‍💻 À propos de l'auteur
-Étudiant avec un profil de "faiseur", passionné par la résolution de problèmes algorithmiques, le développement logiciel et l'informatique graphique concrète.
+Je suis un étudiant avec un profil plutôt intéressé sur la réalisation, et passionné par la résolution de problèmes algorithmiques, le développement logiciel et l'informatique graphique concrète.
 
 Recherche active : Actuellement à la recherche d'un stage de fin d'études dans la région de Tours ou de Châteauroux (Animation 2D/3D graphique(Modélisation, Rigging, squellettes...) , Conception et Développement Logiciel C++/Java/Python). N'hésitez pas à me contacter si vous recherchez un profil curieux et motivé pour s'investir dans des workflows de production réels.
